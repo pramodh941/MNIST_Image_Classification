@@ -1,1 +1,3 @@
 # MNIST_Image_Classification
+
+This report is an analysis on the famous MNIST dataset for handwritten digit recognition. This dataset has been extensively used to validate novel techniques in computer vision, and in recent years, many researchers have explored the performance of convolutional neural networks (CNNs) and other deep learning techniques over this dataset. The report describes the usage of neural networks for the classification task (Pattern recognition task). Explored variants of Neural Network Architectures such as Multi-layer Perceptron, Convolutional Neural Networks and Dropout and L2 regularization methods to study the performance for the digit recognition task.
